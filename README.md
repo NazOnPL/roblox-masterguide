@@ -20,6 +20,7 @@ Naz's knowledge base for everything around a Roblox game except the code: ideati
 | `07-live-ops/` | Patches vs updates, metrics, team | `/live-ops` |
 | `inspiration/` | Clips of cool systems, mechanics, UI and VFX, plus useful tools | none |
 | `competitors/` | One file per game you playtested: what to steal | none |
+| `playtests/` | Playtests of your own games: fix lists, ready-to-paste prompts, ideas | none |
 | `inbox/` | Raw brain dumps waiting to be sorted | none |
 | `skills/` | The kit's slash commands as 3 Claude skills (validate concept, design + monetize, launch + live ops) | none |
 | `sources/` | Original master guide and kit zip, untouched | none |
