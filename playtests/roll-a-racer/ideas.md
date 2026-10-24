@@ -68,8 +68,16 @@ Solve real pain points, don't sell wins:
 - **Race cash 2x** pass.
 - **Revive / rematch boss instantly** dev product after a close loss (a near-miss is the best moment to offer it).
 
+## 8. What racing should pay out (answered 2026-10-24: races are vs NPCs, reward is cash)
+
+Problem: plots already earn cash every second, so race cash competes with idle cash and racing feels optional. Racing has to pay out something the plot can't:
+- **Roll tokens or luck boosts** from placing (1st = Luck potion, 2nd/3rd = roll token). Racing feeds the roll, the roll feeds the race.
+- **Race-only currency** (trophies) for car parts, boost trails and drift spark colors.
+- **Win streak multiplier**: each win in a row adds +0.1x race cash, shown on the HUD. A reason to do "one more race."
+- **First-clear bonus per track**, so new tracks are worth trying.
+- **Ghosts of real players**: since races are vs NPCs, race recorded ghosts of other players' best laps (with their name and car). Feels multiplayer, no matchmaking wait.
+- **No lobby wait**: NPC races can start instantly. The 8s wait has no excuse.
+
 ## Questions for Naz
 
-- Is the race single-player against NPCs right now, or real players in the same race?
-- What's the race reward today: cash, area unlocks, or both?
 - Mobile share of your players? (Power-ups and drift need one-thumb controls.)
