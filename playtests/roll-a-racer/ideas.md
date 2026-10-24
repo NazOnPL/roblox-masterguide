@@ -78,6 +78,9 @@ Problem: plots already earn cash every second, so race cash competes with idle c
 - **Ghosts of real players**: since races are vs NPCs, race recorded ghosts of other players' best laps (with their name and car). Feels multiplayer, no matchmaking wait.
 - **No lobby wait**: NPC races can start instantly. The 8s wait has no excuse.
 
-## Questions for Naz
+## 9. Mobile controls (most players are on mobile)
 
-- Mobile share of your players? (Power-ups and drift need one-thumb controls.)
+- Use ContextActionService buttons. Naz's idea: power-up on the left, drift on the right.
+- Watch out: the left thumb is on the Roblox thumbstick for steering. A left-side power-up button means letting go of steering to fire it. If the car auto-accelerates, put both on the right instead (big drift button, smaller power-up button above it) and keep the left thumb for steering only.
+- The power-up button shows the held item's icon and is greyed out when empty, so it teaches itself.
+- On PC, show the key on the same icons (Shift = drift, E = power-up).
