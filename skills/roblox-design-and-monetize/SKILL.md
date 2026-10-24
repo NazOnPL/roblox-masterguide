@@ -63,6 +63,20 @@ Integrate psychological retention drivers:
 - **Social Flex**: Ensure high-tier progress is instantly visible to other players in the server (glowing titles, giant base structures, rare block skins, chat broadcast messages).
 - **Free Private Servers**: Allow players to build or farm in peace without griefing, driving word-of-mouth friend invites.
 
+### 1.6 Playtest Audit: Fantasy, Feel and Friction
+Use this when the game already exists and Naz is playtesting it (fresh alt account). Score each item pass/fail and log every fail as severity, area, problem, fix, and a ready-to-paste prompt for the game project.
+- **Fantasy Test**: Is the verb in the title (race, build, hatch) the most fun and most polished thing in the game? If a side mode is more fun than the core, fix the core first and copy what the side mode does.
+- **Camera Test**: Does the camera sell the fantasy (chase cam for driving, close zoom for reveals)? A distant or top-down view kills a driving game.
+- **Wait Test**: List every wait over 3 seconds (pre-race lobby, countdowns, walks). Each one is cut or given a job (rocket-start minigame, preview, tip).
+- **Variation Test**: Does the second round feel different from the first? If one lap or one round "solves" it, add simple round-to-round variety (power-ups, track quirks, events) without adding menus.
+- **Challenge Test**: Bosses and rivals must end close. Rubber-band so the player wins, but by a hair.
+- **One-Choice Test**: Every interaction (boss, NPC, pad) offers one action. Two options = complexity.
+- **Friction Walk**: Time the walk from spawn to the first action and from base to the core activity. Spawn facing the first button. Add top-bar teleports (Plot, Core Activity, Shop).
+- **Motion Test**: Nothing appears or disappears without a tween. Every menu uses the same open/close animation. Notifications animate out.
+- **UI Consistency Test**: Close buttons in the same corner on every menu. No dark text on dark backgrounds. No price or key stat hidden behind hover. Show the stat the fantasy is about (e.g. speed) at the moment the player gets the item.
+- **Polish Signals**: Custom ProximityPrompt UI instead of native; custom VFX instead of stock sparkles and smoke; restrained bloom.
+- **Level Sanity**: Nothing blocks a path after an event (podiums, doors); ambient NPCs use the whole map and never clip.
+
 # Part 2: Monetization
 
 Use this to structure Developer Products, Game Passes, and conversion purchase pathways engineered to maximize Payer Conversion Rate (PCR), Average Revenue Per Paying User (ARPPU), and 7-Day Spend Days Per User.
@@ -98,7 +112,7 @@ Every monetization catalog must offer three psychological tiers:
 
 ### 2.4 The 3+ Purchase Pathways Architecture
 Never hide products behind a single static shop menu. Implement at least three purchase pathways:
-1. **Pathway 1 (HUD Access)**: Standard clean shop icon in screen GUI.
+1. **Pathway 1 (HUD Access)**: Standard clean shop icon in screen GUI. The shop itself is one long scrolling list with section headers (Passes, Boosts, Packs, Cash), not tabs, and every product has its own icon. Cosmetics live in a Locker, not the Robux shop.
 2. **Pathway 2 (Inline '+' Buttons)**: Direct '+' button positioned right next to the currency/stat display in the HUD.
 3. **Pathway 3 (Smart Error Trigger / Contextual Prompt)**:
    - When a player attempts to purchase an in-game item with insufficient funds:
@@ -123,4 +137,4 @@ Return a structured pricing table:
 
 ## Use Naz's own notes too
 
-If the roblox-masterguide repo or the project files are available, also read the matching `notes.md` and any relevant `competitors/*.md` playtest notes, and prefer Naz's own observations where they are more specific.
+If the roblox-masterguide repo or the project files are available, also read the matching `notes.md` and any relevant `competitors/*.md` playtest notes and `playtests/<game>/` fix lists, and prefer Naz's own observations where they are more specific.
