@@ -48,7 +48,7 @@ Feasibility (we're keeping the top-down view)
 8. Can matches be streamed to lobby screens so other players can spectate live?
 
 Idle base idea
-9b. I want each player to have a base where their stickmen auto-fight CPU opponents to earn passive cash, while real PvP earns better rewards (rank, keys, exclusive items, bonus cash). How would this fit the current code and economy? Propose: where bases live (own plot vs slot in the lobby), cash/sec formula by stickman rarity and level, offline earnings cap, base upgrades, and what PvP gives that the base can't.
+9b. I want each player to have a base where their stickmen auto-fight CPU opponents to earn passive cash, while real PvP earns better rewards (rank, keys, exclusive items, bonus cash). How would this fit the current code and economy? Decided: the base is an arena slot in the shared lobby where each player sees their own stickmen fighting (no per-player plots), and base fights pay XP + cash, clearly less than real PvP. Propose: how to render each player's own squad in a shared slot, cash/sec and XP/sec formula by stickman rarity and level, offline earnings cap, base upgrades, and what PvP gives that the base can't.
 
 Ideate (be creative, give 3 options for each, simple to play)
 9. A server-wide event that is NOT a copy of a free-for-all brawl (idea: winner-stays-on "King of the Neon").

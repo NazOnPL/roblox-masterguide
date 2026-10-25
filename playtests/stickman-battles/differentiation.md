@@ -31,7 +31,13 @@ This is the strongest differentiator so far, because it changes the genre mix: S
 - Visitors walk past your base and watch your squad fight, which shows off rare stickmen (flex) and sells crates.
 - Upgrades for the base: more fight slots, stronger CPU tier (more cash), arena themes, auto-collect pass (Robux).
 
-Open questions: base as its own plot or a slot in the shared lobby? Do base fights level up your stickmen (so idle feeds PvP strength), or only pay cash?
+Decided 2026-10-25 (Naz):
+- **Where:** an arena slot in the shared lobby, not a plot per player (saves space). Each player sees their own stickmen fighting there (client-side view of a shared space).
+- **What it pays:** XP (levels up your stickmen) and cash, both clearly less than fighting real players.
+
+Trade-off to watch: if every player only sees their own squad in the slot, nobody sees anyone else's rare stickmen, so the flex/visitor point above is lost. Fix: the slot shows your squad by default, and you can walk up to a player and "Watch their squad", or one lobby screen cycles the top players' base fights.
+
+Tuning starting point (to test): base pays ~20 to 30% of what the same time spent in PvP pays, with offline earnings capped (e.g. 2 to 4 hours). PvP stays the fastest way to level, base is the floor.
 
 ## Twist ideas (pick 1 or 2, not all)
 
