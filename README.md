@@ -19,6 +19,7 @@ Naz's knowledge base for everything around a Roblox game except the code: ideati
 | `06-launch-algorithm/` | Sponsored ads, beta, discovery algorithm | `/launch-prep` |
 | `07-live-ops/` | Patches vs updates, metrics, team | `/live-ops` |
 | `inspiration/` | Clips of cool systems, mechanics, UI and VFX, plus useful tools | none |
+| `ideas/` | Your game ideas, each with its validation report and open questions | `/validate-concept` |
 | `competitors/` | One file per game you playtested: what to steal | none |
 | `playtests/` | Playtests of your own games: fix lists, ready-to-paste prompts, ideas | none |
 | `inbox/` | Raw brain dumps waiting to be sorted | none |
