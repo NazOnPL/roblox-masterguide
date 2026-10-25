@@ -6,13 +6,13 @@ Stick Wars (~2,000 CCU) shipped the same premise first. Copying its lobby and fe
 
 1. **The class triangle.** Brawler > Trapper > Shooter > Brawler. Stick Wars has rarity; we have strategy. This is the strongest hook already built.
 2. **Rival Road (PvE ladder).** A named ladder of CPU rivals with a box reward. Stick Wars also has CPU fights (confirmed 2026-10-25), so this isn't unique on its own; it becomes unique with bosses and the base (below).
-3. **Neon look.** Their game is a bright cartoon city. A dark neon arena is instantly recognizable in a thumbnail.
+3. **Look.** Their game is a bright cartoon city. Ours is neon, but Naz finds the map too dark; target a lighter map with neon accents.
 
 ## Decided 2026-10-25: side-view
 
 Naz first picked top-down, then switched to **B, side-view**: side-view matches are much easier to read when spectating other players on the lobby screens. Stickmen run, jump, dodge and block on platforms/walls.
 
-Since this is Stick Wars' view, the difference has to come from everything else: the neon look (dark arena, glowing stickmen) so screens and thumbnails don't read as Stick Wars, the class triangle, the idle base, and our own event. Keep the original reasoning below for the record.
+Since this is Stick Wars' view, the difference has to come from everything else: a recognizable color identity (Naz wants it lighter than now, neon as accents), the class triangle, the idle base, and our own event. Keep the original reasoning below for the record.
 
 ## Top-down or side-view?
 
@@ -32,11 +32,12 @@ This is the strongest differentiator so far, because it changes the genre mix: S
 - Real PvP pays what the base can't: trophies/rank, crate keys, exclusive weapons and cosmetics, plus a cash bonus.
 - Upgrades for the base: more fight slots, stronger CPU tier (more cash), arena themes, auto-collect pass (Robux).
 
-Decided 2026-10-25 (Naz):
-- **Where:** an arena slot in the shared lobby, not a plot per player (saves space). Each player sees their own stickmen fighting there (client-side view of a shared space).
+Direction as of 2026-10-25 18:54 (Naz changed his mind twice; clarifying questions pending):
+- **Every player gets their own home base** on a circular map. Naz likes the circular layout of the current map.
+- **Everyone's auto-battles are on and visible**, so you can see other players' squads fighting (the flex point is back).
+- **The center of the map** holds the duel pads and crates (to confirm).
 - **What it pays:** XP (levels up your stickmen) and cash, both clearly less than fighting real players.
-
-The base slot is for the player themselves, not for showing off (Naz). Spectating other players happens on the real match screens.
+- **Look:** the map is too dark and too neon. Lighten it so it reads clearly; neon as accents, not the whole map.
 
 Tuning starting point (to test): base pays ~20 to 30% of what the same time spent in PvP pays, with offline earnings capped (e.g. 2 to 4 hours). PvP stays the fastest way to level, base is the floor.
 
