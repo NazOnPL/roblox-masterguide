@@ -8,9 +8,11 @@ Stick Wars (~2,000 CCU) shipped the same premise first. Copying its lobby and fe
 2. **Rival Road (PvE ladder).** A named ladder of CPU rivals with a box reward. Stick Wars also has CPU fights (confirmed 2026-10-25), so this isn't unique on its own; it becomes unique with bosses and the base (below).
 3. **Neon look.** Their game is a bright cartoon city. A dark neon arena is instantly recognizable in a thumbnail.
 
-## Decided 2026-10-25: top-down
+## Decided 2026-10-25: side-view
 
-Naz picked A (top-down, stickmen out of the balls). Kept the reasoning below for the record.
+Naz first picked top-down, then switched to **B, side-view**: side-view matches are much easier to read when spectating other players on the lobby screens. Stickmen run, jump, dodge and block on platforms/walls.
+
+Since this is Stick Wars' view, the difference has to come from everything else: the neon look (dark arena, glowing stickmen) so screens and thumbnails don't read as Stick Wars, the class triangle, the idle base, and our own event. Keep the original reasoning below for the record.
 
 ## Top-down or side-view?
 
@@ -28,14 +30,13 @@ This is the strongest differentiator so far, because it changes the genre mix: S
 - Every player has a small neon base (or a personal arena plot in the lobby ring) where their collected stickmen auto-fight CPU dummies/doodles and earn cash per second, offline earnings capped.
 - More / rarer stickmen and arena upgrades = more cash per second. Gives every crate pull a number that goes up, not just a match stat.
 - Real PvP pays what the base can't: trophies/rank, crate keys, exclusive weapons and cosmetics, plus a cash bonus.
-- Visitors walk past your base and watch your squad fight, which shows off rare stickmen (flex) and sells crates.
 - Upgrades for the base: more fight slots, stronger CPU tier (more cash), arena themes, auto-collect pass (Robux).
 
 Decided 2026-10-25 (Naz):
 - **Where:** an arena slot in the shared lobby, not a plot per player (saves space). Each player sees their own stickmen fighting there (client-side view of a shared space).
 - **What it pays:** XP (levels up your stickmen) and cash, both clearly less than fighting real players.
 
-Trade-off to watch: if every player only sees their own squad in the slot, nobody sees anyone else's rare stickmen, so the flex/visitor point above is lost. Fix: the slot shows your squad by default, and you can walk up to a player and "Watch their squad", or one lobby screen cycles the top players' base fights.
+The base slot is for the player themselves, not for showing off (Naz). Spectating other players happens on the real match screens.
 
 Tuning starting point (to test): base pays ~20 to 30% of what the same time spent in PvP pays, with offline earnings capped (e.g. 2 to 4 hours). PvP stays the fastest way to level, base is the floor.
 

@@ -13,7 +13,7 @@ The match is fun. What's missing is the stickman fantasy (they're stuck in balls
 
 | # | Sev | Area | What's wrong | Suggested fix |
 |---|-----|------|--------------|---------------|
-| 1 | P0 | Match / feel | Stickmen sit inside circles and act like balls. Doesn't feel like stickmen. | Remove the circles. Stickmen run, jump, dodge, block and slash with real animations, and the arena has obstacles to run on and around. Keep the top-down view (decided 2026-10-25). |
+| 1 | P0 | Match / feel | Stickmen sit inside circles and act like balls. Doesn't feel like stickmen. | Remove the circles. Stickmen run, jump, dodge, block and slash with real animations, and the arena has obstacles to run on and around. Switch to a side-view stage with platforms and little walls (decided 2026-10-25; easier to spectate). Keep the neon look so it doesn't read as Stick Wars. |
 | 2 | P0 | Match / controls | Aim follows the mouse; clicking the lock-aim button moves the mouse down and ruins the aim. | Click-and-drag to aim (slingshot style): press anywhere, drag to set direction and power, release to launch. Remove the lock button. On mobile, same with touch. |
 | 3 | P1 | FTUE / text | Too much text on the first screens ("Meet your stickmen" is a wall of words). | Max one short line per screen. Show, don't tell: the class triangle becomes three icons with arrows, no paragraph. |
 | 4 | P1 | FTUE / reveal | First three stickmen just appear on a card. Stick Wars rolls them in. | First-join reveal: screen split into three horizontal strips, each spins like an MM2 crate (stickmen scroll past), they land one after another with a hit sound, shake and rarity flash. Then one line: "These are yours." |
@@ -33,9 +33,9 @@ The match is fun. What's missing is the stickman fantasy (they're stuck in balls
 ```
 Playtest feedback on matches. The match flow is fun; keep the balance and the slow-mo on match point.
 1. Aim: replace mouse-follow aim + lock button with click-and-drag aim. Press anywhere in the arena, drag to set direction (and power if relevant), release to commit. Show a trajectory/arrow while dragging. Remove the lock-aim button. Same with touch on mobile.
-2. Stickmen should feel like stickmen, not balls: remove the circles around them. Give each stickman run, jump, dodge, block and attack animations, and add a few obstacles/walls in the arena they can run on and around.
+2. Stickmen should feel like stickmen, not balls: switch matches from top-down to a side-view stage with a few platforms and little walls. Remove the circles. Give each stickman run, jump, dodge, block and attack animations. Side-view also makes matches easy to spectate on the lobby screens. Keep the dark neon look.
 3. On the final blow, add a short hit-stop (~0.1s) and a small camera punch on top of the existing slow-mo.
-Keep the top-down view. Before changing movement, describe the current movement/physics system and propose how to move from balls to running stickmen, and wait for my okay.
+Before changing movement, describe the current movement/physics system and propose how to move from top-down balls to side-view running stickmen, and wait for my okay.
 ```
 
 ### Batch B: First minute (issues 3, 4, 6)

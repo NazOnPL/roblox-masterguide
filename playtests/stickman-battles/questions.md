@@ -5,7 +5,7 @@ Two sets. Part 1 is for Naz to answer (answers go in notes.md / differentiation.
 ## Part 1: for Naz
 
 **The feel**
-1. ~~Top-down or side-view?~~ Answered 2026-10-25: top-down.
+1. ~~Top-down or side-view?~~ Answered 2026-10-25: side-view (easier to spectate).
 2. When you picture the best moment in a match, what is it? A clutch dodge, a combo, a comeback, a big final hit?
 3. How long should a match be? Under 60 seconds, or longer fights with back and forth?
 4. Do you control your stickman fully (move + attack), or set them up and watch them fight (aim, launch, let them go)? Today it's closer to the second.
@@ -42,8 +42,8 @@ Current state
 4. List every screen and lobby element (Play, Invite, shop, crates, quests, leaderboard, events). What's half-built?
 5. What does the player chase after the first session? List every progression system.
 
-Feasibility (we're keeping the top-down view)
-6. How hard is it to replace the ball movement with running, jumping, dodging and blocking stickmen in the current top-down arena, with obstacles? What breaks? Give a rough plan in steps.
+Feasibility (we're switching matches to side-view)
+6. How hard is it to replace the ball movement with side-view matches: stickmen running, jumping, dodging and blocking on a stage with platforms and little walls? What breaks? Give a rough plan in steps.
 7. How hard is it to bring 3 stickmen into one match and swap between them mid-fight?
 8. Can matches be streamed to lobby screens so other players can spectate live?
 
