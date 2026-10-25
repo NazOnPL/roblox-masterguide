@@ -5,7 +5,7 @@ Two sets. Part 1 is for Naz to answer (answers go in notes.md / differentiation.
 ## Part 1: for Naz
 
 **The feel**
-1. Top-down with running stickmen and obstacles, or side-view platforms like Stick Wars? (See differentiation.md; top-down is recommended so we don't look like a clone.)
+1. ~~Top-down or side-view?~~ Answered 2026-10-25: top-down.
 2. When you picture the best moment in a match, what is it? A clutch dodge, a combo, a comeback, a big final hit?
 3. How long should a match be? Under 60 seconds, or longer fights with back and forth?
 4. Do you control your stickman fully (move + attack), or set them up and watch them fight (aim, launch, let them go)? Today it's closer to the second.
@@ -19,7 +19,7 @@ Two sets. Part 1 is for Naz to answer (answers go in notes.md / differentiation.
 **Players and progress**
 9. What does a player chase after day 1? New stickmen, weapons, ranks, Rival Road bosses?
 10. Is there a ranked or trophy system? Should there be (it's free retention for PvP)?
-11. Can you fight CPU rivals in Stick Wars, or only real players?
+11. ~~Can you fight CPUs in Stick Wars?~~ Answered: yes, both CPU and real players.
 12. What's your plan when the server has 3 players? (Rival Road answers this; is it the default Play button target?)
 
 **Money**
@@ -42,10 +42,13 @@ Current state
 4. List every screen and lobby element (Play, Invite, shop, crates, quests, leaderboard, events). What's half-built?
 5. What does the player chase after the first session? List every progression system.
 
-Feasibility
+Feasibility (we're keeping the top-down view)
 6. How hard is it to replace the ball movement with running, jumping, dodging and blocking stickmen in the current top-down arena, with obstacles? What breaks? Give a rough plan in steps.
 7. How hard is it to bring 3 stickmen into one match and swap between them mid-fight?
 8. Can matches be streamed to lobby screens so other players can spectate live?
+
+Idle base idea
+9b. I want each player to have a base where their stickmen auto-fight CPU opponents to earn passive cash, while real PvP earns better rewards (rank, keys, exclusive items, bonus cash). How would this fit the current code and economy? Propose: where bases live (own plot vs slot in the lobby), cash/sec formula by stickman rarity and level, offline earnings cap, base upgrades, and what PvP gives that the base can't.
 
 Ideate (be creative, give 3 options for each, simple to play)
 9. A server-wide event that is NOT a copy of a free-for-all brawl (idea: winner-stays-on "King of the Neon").

@@ -5,19 +5,39 @@ Stick Wars (~2,000 CCU) shipped the same premise first. Copying its lobby and fe
 ## What we already have that they don't (lean in)
 
 1. **The class triangle.** Brawler > Trapper > Shooter > Brawler. Stick Wars has rarity; we have strategy. This is the strongest hook already built.
-2. **Rival Road (PvE ladder).** You can fight CPU rivals right away. Stick Wars needs two real players on the pads. At launch we'll have low CCU, so a no-wait solo path is a real advantage, not a side mode.
+2. **Rival Road (PvE ladder).** A named ladder of CPU rivals with a box reward. Stick Wars also has CPU fights (confirmed 2026-10-25), so this isn't unique on its own; it becomes unique with bosses and the base (below).
 3. **Neon look.** Their game is a bright cartoon city. A dark neon arena is instantly recognizable in a thumbnail.
 
-## Big decision: top-down or side-view?
+## Decided 2026-10-25: top-down
+
+Naz picked A (top-down, stickmen out of the balls). Kept the reasoning below for the record.
+
+## Top-down or side-view?
 
 Naz wants stickmen running on obstacles like in Stick Wars. Two ways to get there:
 
 - **A. Keep top-down, drop the balls (recommended).** Stickmen run, dash, dodge and slash in a top-down neon arena with pillars, bounce walls and hazards. Keeps the matches Naz already loves, keeps the Webber's wall-bounce web, and looks nothing like Stick Wars on a screen.
 - **B. Switch to side-view platforms.** Closer to the stickman fantasy, but it's their exact look. Every thumbnail and lobby screen would read as "Stick Wars clone".
 
+## Naz's idea: your base fights for you (idle layer)
+
+Naz, 2026-10-25: "your own stickmen fighting away at a CPU at your base to earn you passive cash, and then real players earn you more cool stuff."
+
+This is the strongest differentiator so far, because it changes the genre mix: Stick Wars is a lobby PvP game; this makes ours PvP plus an idle base (the loop that keeps tycoons and Grow a Garden-style games sticky).
+
+- Every player has a small neon base (or a personal arena plot in the lobby ring) where their collected stickmen auto-fight CPU dummies/doodles and earn cash per second, offline earnings capped.
+- More / rarer stickmen and arena upgrades = more cash per second. Gives every crate pull a number that goes up, not just a match stat.
+- Real PvP pays what the base can't: trophies/rank, crate keys, exclusive weapons and cosmetics, plus a cash bonus.
+- Visitors walk past your base and watch your squad fight, which shows off rare stickmen (flex) and sells crates.
+- Upgrades for the base: more fight slots, stronger CPU tier (more cash), arena themes, auto-collect pass (Robux).
+
+Open questions: base as its own plot or a slot in the shared lobby? Do base fights level up your stickmen (so idle feeds PvP strength), or only pay cash?
+
 ## Twist ideas (pick 1 or 2, not all)
 
 **Team of 3 with live swapping (Pokémon lens).** Bring all three classes into a match. Tap to swap mid-fight; the swap is the skill (counter-swap when they swap). The triangle stops being a menu and becomes the gameplay. One-sentence pitch: "Stick Wars, but you bring a squad of 3 and counter-swap."
+
+Naz's own pitch so far: "Stick Wars, but cooler and more fun." True, but a kid can't repeat it; the twist has to be a thing you can see (the idle base, the squad swap).
 
 **Neon doodles.** Stickmen are drawn in light. Every fighter is drawn in line by line when the match starts, KOs shatter into neon strokes, and your rival roster are "Doodles" with names and personalities (Rival Doodle already exists). Gives the game its own identity, VFX style and thumbnail.
 
