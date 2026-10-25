@@ -64,6 +64,18 @@ Best combo: hidden stats as a fallback when the server is empty, crowd vote when
 - Fits the fantasy better: table themes, bid hammer skins, victory emotes, "reroll this item" product (once per match, sold at the moment of pain), extra $1 budget token (pay-to-win risk: keep it out of ranked).
 - Spectator bets (free coins) give a currency sink and a reason to stay between your own matches.
 
+## Update 2026-10-25: Naz picks "they actually fight" as the twist
+
+Naz's idea: at the end the teams go head to head (soccer: a simulated match; animals: each player's 1st animal fights the other's 1st, and so on).
+This is twist #2 above, now the lead twist. The fight is the judge; the crowd's job becomes betting free coins on each matchup.
+
+What makes or breaks it:
+1. **Lineup phase after the draft.** 10 seconds to order your team, blind reveal. Fixed slot-vs-slot means the bidding decides everything; ordering adds counter-pick strategy (sacrifice the cheap pick to the opponent's best).
+2. **Luck in every fight** (dodge, crit, type/arena matchups). Pure stats get learned in a few rounds and the auction is solved; upsets of a $2 pick over a $9 pick are the clip moments.
+3. **Short and cheap.** ~5 seconds per 1v1, best of 5. Soccer: 3 highlight moments (shot, save, goal), not a full match sim. Animals share animation sets by body type, so a new theme doesn't cost weeks.
+
+Open: arena with 3D models walking out, or cards fighting on the table?
+
 ## Open questions for Naz
 1. Why this over your current games? Is it a quick cash-grab you'd ship in a week, or something you'd run live ops on?
 2. Are you fine dropping real footballers/anime for unowned themes?
